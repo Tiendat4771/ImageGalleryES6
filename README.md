@@ -2,6 +2,7 @@
 
 
 Create Image gallery using ES6 
+```
 HRS-4-PORTAL/
 +-- ui_portal
 │ +-- portal_setting
@@ -26,3 +27,4 @@ HRS-4-PORTAL/
 | +-- requirements.txt
 +-- .gitignore
 +-- README.md
+```
